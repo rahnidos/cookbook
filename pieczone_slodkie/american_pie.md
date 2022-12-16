@@ -1,8 +1,10 @@
 # American Pie
 
+_200°C 15' + 170°C 30'_
+
 Ten przepis tutaj nie jest w zasadzie przepisem na American Pie jako taki. Trzymam go, bo jest świetny przepisem na krucho-francuskie ciasto idealne do wszystkich wersji American Pies. 
 
-# Składniki
+## Składniki
 Składniki zależą trochę od tego czy robisz tylko spód czy też górę i jak dużą formę masz.  Zapisałem je w formacie: _oryginalny/ mój/ mój tylko spód_.
 
 - Mąka pszenna 420g/ 315g/ 210g
@@ -11,7 +13,7 @@ Składniki zależą trochę od tego czy robisz tylko spód czy też górę i jak
 - zimne masło 330g/ 250g/ 160g
 - ~100ml bardzo zimnej wody
 
-# Działania
+## Działania
 Zagniatamy szybko masło (najlepiej pokroić w kostkę) z mąką i cukrem. Kiedy uzyskamy coś na kształt kruszonki. Dolewamy bardzo zimną wodę. Nie za dużo, na pewno nie wszystką od razu, trzeba to wyczuć. Wody musi być tylko tyle, żeby skleić całą tę kruszonkę. 
 
 W zależności od tego, czy ciasto na spód tylko, czy też na górę, dzielimy na dwie części lub nie. Schładzamy przed dalszą akcją.
