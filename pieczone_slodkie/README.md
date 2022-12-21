@@ -4,7 +4,7 @@
 
 - [Sernik NYC](sernik_NYC.md)
 - [Sernik z Lidla](sernik_z_lidla.md)
-- [Skyrnik](skrynik.md)
+- [Skyrnik](skyrnik.md)
 
 ## Tarty:
 - [American Pie](american_pie.md)
