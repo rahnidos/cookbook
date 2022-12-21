@@ -1,4 +1,4 @@
-# Babka z ogotwanych cytrusów
+# Babka z gotowanych cytrusów
 
 _180°C - 40'_
 [Oryginalny przepis u Rozkosznego](https://www.rozkoszny.pl/mieciutkie-ciasto-pomaranczowe-z-cala-gotowana-pomarancza/)
@@ -20,7 +20,7 @@ _180°C - 40'_
 - dwie łyżki irlandzkiej whiskey
 
 ## Działania
-Pomarańczę gotowac godzinę, wystudzić, wybrac pestki, zblendować.  
+Pomarańczę gotować godzinę, wystudzić, wybrać pestki, zblendować.  
 Suche składniki wymieszać.  
 Jaja zmiksować z cukrem, potem z olejem, potem z alkoholem.
 Nie przemiskować!!!
