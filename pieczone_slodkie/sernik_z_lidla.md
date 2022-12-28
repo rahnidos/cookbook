@@ -2,7 +2,7 @@
 
 Ten sernik nie jest z Lidla. Jest z sera, ale przepis pochodzi z jakiejś książki, co ją ktoś kiedyś dostał za jakieś naklejki w Lidlu. 
 
-Modyfikowany trochę. 
+Modyfikowany trochę, nawet trochę bardzo.
 
 __Uwaga__  
 W przepisie używam sera z wiaderka. Jeżeli uważasz, że to zbrodnia nie czytaj dalej. 
@@ -25,6 +25,8 @@ Spód: 170°C 10-14', Całość 170°C 50-55'
 ## Składniki na sernik:
 
 - 1 kg sera mielonego
+- 250 g mascarpone
+- 150 g skyru naturalnego
 - 125 g cukru
 - dwie łyżki ekstraktu z wanilii
 - 3 jajka
